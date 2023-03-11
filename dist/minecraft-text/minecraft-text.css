@@ -1,11 +1,11 @@
 @font-face {
   font-family: "minecraft-text";
-  src: url('minecraft-text.eot?t=1678561007809'); /* IE9*/
-  src: url('minecraft-text.eot?t=1678561007809#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("minecraft-text.woff2?t=1678561007809") format("woff2"),
-  url("minecraft-text.woff?t=1678561007809") format("woff"),
-  url('minecraft-text.ttf?t=1678561007809') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('minecraft-text.svg?t=1678561007809#minecraft-text') format('svg'); /* iOS 4.1- */
+  src: url('minecraft-text.eot?t=1678562208158'); /* IE9*/
+  src: url('minecraft-text.eot?t=1678562208158#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("minecraft-text.woff2?t=1678562208158") format("woff2"),
+  url("minecraft-text.woff?t=1678562208158") format("woff"),
+  url('minecraft-text.ttf?t=1678562208158') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('minecraft-text.svg?t=1678562208158#minecraft-text') format('svg'); /* iOS 4.1- */
 }
 
 [class^="minecraft-text-"], [class*=" minecraft-text-"] {

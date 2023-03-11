@@ -4,11 +4,19 @@
     <meta charset="utf-8">
     <title>test</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="dist/minecraft-font.css">
+    <link rel="stylesheet" href="dist/minecraft-text/minecraft-text.css">
+    <link rel="stylesheet" href="dist/minecraft-titling/minecraft-titling.css">
     <style>
       :root {
-        --font-size-base: 1rem;
+        --font-size-base: 1.125rem;
         --font-scalar: 1.25;
+      }
+      body {
+        font-family: "minecraft-text";
+        font-size: var(--font-size-base);
+      }
+      h1, h2, h3, h4 {
+        font-family: "minecraft-titling";
       }
       h4 {
         font-size: calc(var(--font-size-base) * var(--font-scalar));
@@ -22,21 +30,10 @@
       h1 {
         font-size: calc(var(--font-size-base) * var(--font-scalar) * var(--font-scalar) * var(--font-scalar) * var(--font-scalar));
       }
-      .minecraft {
-        font-family: minecraft-font;
-        text-decoration: uppercase;
-      }
     </style>
   </head>
   <body>
-    <div class="minecraft">
-    <h1>MinecrAft Family</h1>
-    <h2>The Worlds</h2>
-    <h2>The Players</h2>
-    <h2>The Story</h2>
-    <h2>AaronP1nero</h2>
-    <h2>Pink_unikitty_9</h2>
-    </div>
+    <h1>MinecrAft Fonts</h1>
+    <p>Minecraft fonts are based on the style of text in the game Minecraft</p>
   </body>
-
 </html>
