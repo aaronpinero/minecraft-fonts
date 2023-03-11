@@ -1,0 +1,94 @@
+@font-face {
+  font-family: "minecraft-titling";
+  src: url('minecraft-titling.eot?t=1678561013655'); /* IE9*/
+  src: url('minecraft-titling.eot?t=1678561013655#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("minecraft-titling.woff2?t=1678561013655") format("woff2"),
+  url("minecraft-titling.woff?t=1678561013655") format("woff"),
+  url('minecraft-titling.ttf?t=1678561013655') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('minecraft-titling.svg?t=1678561013655#minecraft-titling') format('svg'); /* iOS 4.1- */
+}
+
+[class^="minecraft-titling-"], [class*=" minecraft-titling-"] {
+  font-family: 'minecraft-titling' !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.minecraft-titling-100:before { content: "\64"; }
+.minecraft-titling-101:before { content: "\65"; }
+.minecraft-titling-102:before { content: "\66"; }
+.minecraft-titling-103:before { content: "\67"; }
+.minecraft-titling-104:before { content: "\68"; }
+.minecraft-titling-105:before { content: "\69"; }
+.minecraft-titling-106:before { content: "\6a"; }
+.minecraft-titling-107:before { content: "\6b"; }
+.minecraft-titling-108:before { content: "\6c"; }
+.minecraft-titling-109:before { content: "\6d"; }
+.minecraft-titling-110:before { content: "\6e"; }
+.minecraft-titling-111:before { content: "\6f"; }
+.minecraft-titling-112:before { content: "\70"; }
+.minecraft-titling-113:before { content: "\71"; }
+.minecraft-titling-114:before { content: "\72"; }
+.minecraft-titling-115:before { content: "\73"; }
+.minecraft-titling-116:before { content: "\74"; }
+.minecraft-titling-117:before { content: "\75"; }
+.minecraft-titling-118:before { content: "\76"; }
+.minecraft-titling-119:before { content: "\77"; }
+.minecraft-titling-120:before { content: "\78"; }
+.minecraft-titling-121:before { content: "\79"; }
+.minecraft-titling-122:before { content: "\7a"; }
+.minecraft-titling-048:before { content: "\30"; }
+.minecraft-titling-049:before { content: "\31"; }
+.minecraft-titling-050:before { content: "\32"; }
+.minecraft-titling-051:before { content: "\33"; }
+.minecraft-titling-052:before { content: "\34"; }
+.minecraft-titling-053:before { content: "\35"; }
+.minecraft-titling-054:before { content: "\36"; }
+.minecraft-titling-055:before { content: "\37"; }
+.minecraft-titling-056:before { content: "\38"; }
+.minecraft-titling-057:before { content: "\39"; }
+.minecraft-titling-058:before { content: "\3a"; }
+.minecraft-titling-059:before { content: "\3b"; }
+.minecraft-titling-060:before { content: "\3c"; }
+.minecraft-titling-061:before { content: "\3d"; }
+.minecraft-titling-062:before { content: "\3e"; }
+.minecraft-titling-063:before { content: "\3f"; }
+.minecraft-titling-064:before { content: "\40"; }
+.minecraft-titling-065:before { content: "\41"; }
+.minecraft-titling-066:before { content: "\42"; }
+.minecraft-titling-067:before { content: "\43"; }
+.minecraft-titling-068:before { content: "\44"; }
+.minecraft-titling-069:before { content: "\45"; }
+.minecraft-titling-070:before { content: "\46"; }
+.minecraft-titling-071:before { content: "\47"; }
+.minecraft-titling-072:before { content: "\48"; }
+.minecraft-titling-073:before { content: "\49"; }
+.minecraft-titling-074:before { content: "\4a"; }
+.minecraft-titling-075:before { content: "\4b"; }
+.minecraft-titling-076:before { content: "\4c"; }
+.minecraft-titling-077:before { content: "\4d"; }
+.minecraft-titling-078:before { content: "\4e"; }
+.minecraft-titling-079:before { content: "\4f"; }
+.minecraft-titling-080:before { content: "\50"; }
+.minecraft-titling-081:before { content: "\51"; }
+.minecraft-titling-082:before { content: "\52"; }
+.minecraft-titling-083:before { content: "\53"; }
+.minecraft-titling-084:before { content: "\54"; }
+.minecraft-titling-085:before { content: "\55"; }
+.minecraft-titling-086:before { content: "\56"; }
+.minecraft-titling-087:before { content: "\57"; }
+.minecraft-titling-088:before { content: "\58"; }
+.minecraft-titling-089:before { content: "\59"; }
+.minecraft-titling-090:before { content: "\5a"; }
+.minecraft-titling-091:before { content: "\5b"; }
+.minecraft-titling-092:before { content: "\5c"; }
+.minecraft-titling-093:before { content: "\5d"; }
+.minecraft-titling-094:before { content: "\5e"; }
+.minecraft-titling-095:before { content: "\5f"; }
+.minecraft-titling-096:before { content: "\60"; }
+.minecraft-titling-097:before { content: "\61"; }
+.minecraft-titling-098:before { content: "\62"; }
+.minecraft-titling-099:before { content: "\63"; }

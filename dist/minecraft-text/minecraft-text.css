@@ -1,0 +1,94 @@
+@font-face {
+  font-family: "minecraft-text";
+  src: url('minecraft-text.eot?t=1678561007809'); /* IE9*/
+  src: url('minecraft-text.eot?t=1678561007809#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("minecraft-text.woff2?t=1678561007809") format("woff2"),
+  url("minecraft-text.woff?t=1678561007809") format("woff"),
+  url('minecraft-text.ttf?t=1678561007809') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('minecraft-text.svg?t=1678561007809#minecraft-text') format('svg'); /* iOS 4.1- */
+}
+
+[class^="minecraft-text-"], [class*=" minecraft-text-"] {
+  font-family: 'minecraft-text' !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.minecraft-text-100:before { content: "\64"; }
+.minecraft-text-101:before { content: "\65"; }
+.minecraft-text-102:before { content: "\66"; }
+.minecraft-text-103:before { content: "\67"; }
+.minecraft-text-104:before { content: "\68"; }
+.minecraft-text-105:before { content: "\69"; }
+.minecraft-text-106:before { content: "\6a"; }
+.minecraft-text-107:before { content: "\6b"; }
+.minecraft-text-108:before { content: "\6c"; }
+.minecraft-text-109:before { content: "\6d"; }
+.minecraft-text-110:before { content: "\6e"; }
+.minecraft-text-111:before { content: "\6f"; }
+.minecraft-text-112:before { content: "\70"; }
+.minecraft-text-113:before { content: "\71"; }
+.minecraft-text-114:before { content: "\72"; }
+.minecraft-text-115:before { content: "\73"; }
+.minecraft-text-116:before { content: "\74"; }
+.minecraft-text-117:before { content: "\75"; }
+.minecraft-text-118:before { content: "\76"; }
+.minecraft-text-119:before { content: "\77"; }
+.minecraft-text-120:before { content: "\78"; }
+.minecraft-text-121:before { content: "\79"; }
+.minecraft-text-122:before { content: "\7a"; }
+.minecraft-text-048:before { content: "\30"; }
+.minecraft-text-049:before { content: "\31"; }
+.minecraft-text-050:before { content: "\32"; }
+.minecraft-text-051:before { content: "\33"; }
+.minecraft-text-052:before { content: "\34"; }
+.minecraft-text-053:before { content: "\35"; }
+.minecraft-text-054:before { content: "\36"; }
+.minecraft-text-055:before { content: "\37"; }
+.minecraft-text-056:before { content: "\38"; }
+.minecraft-text-057:before { content: "\39"; }
+.minecraft-text-058:before { content: "\3a"; }
+.minecraft-text-059:before { content: "\3b"; }
+.minecraft-text-060:before { content: "\3c"; }
+.minecraft-text-061:before { content: "\3d"; }
+.minecraft-text-062:before { content: "\3e"; }
+.minecraft-text-063:before { content: "\3f"; }
+.minecraft-text-064:before { content: "\40"; }
+.minecraft-text-065:before { content: "\41"; }
+.minecraft-text-066:before { content: "\42"; }
+.minecraft-text-067:before { content: "\43"; }
+.minecraft-text-068:before { content: "\44"; }
+.minecraft-text-069:before { content: "\45"; }
+.minecraft-text-070:before { content: "\46"; }
+.minecraft-text-071:before { content: "\47"; }
+.minecraft-text-072:before { content: "\48"; }
+.minecraft-text-073:before { content: "\49"; }
+.minecraft-text-074:before { content: "\4a"; }
+.minecraft-text-075:before { content: "\4b"; }
+.minecraft-text-076:before { content: "\4c"; }
+.minecraft-text-077:before { content: "\4d"; }
+.minecraft-text-078:before { content: "\4e"; }
+.minecraft-text-079:before { content: "\4f"; }
+.minecraft-text-080:before { content: "\50"; }
+.minecraft-text-081:before { content: "\51"; }
+.minecraft-text-082:before { content: "\52"; }
+.minecraft-text-083:before { content: "\53"; }
+.minecraft-text-084:before { content: "\54"; }
+.minecraft-text-085:before { content: "\55"; }
+.minecraft-text-086:before { content: "\56"; }
+.minecraft-text-087:before { content: "\57"; }
+.minecraft-text-088:before { content: "\58"; }
+.minecraft-text-089:before { content: "\59"; }
+.minecraft-text-090:before { content: "\5a"; }
+.minecraft-text-091:before { content: "\5b"; }
+.minecraft-text-092:before { content: "\5c"; }
+.minecraft-text-093:before { content: "\5d"; }
+.minecraft-text-094:before { content: "\5e"; }
+.minecraft-text-095:before { content: "\5f"; }
+.minecraft-text-096:before { content: "\60"; }
+.minecraft-text-097:before { content: "\61"; }
+.minecraft-text-098:before { content: "\62"; }
+.minecraft-text-099:before { content: "\63"; }

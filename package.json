@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-fonts",
+  "version": "1.0.0",
+  "description": "Fonts based on Minecraft game text.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-text-font": "svgtofont --sources ./minecraft-text-glyphs --output ./dist/minecraft-text --fontName minecraft-text",
+    "build-titling-font": "svgtofont --sources ./minecraft-titling-glyphs --output ./dist/minecraft-titling --fontName minecraft-titling"
+  },
+  "svgtofont": {
+    "startUnicode": "0x0030"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpinero/minecraft-font.git"
+  },
+  "keywords": [
+    "minecraft",
+    "webfont"
+  ],
+  "author": "Aaron Pinero",
+  "license": "GNU",
+  "devDependencies": {
+    "svgtofont": "^3.22.0"
+  }
+}
